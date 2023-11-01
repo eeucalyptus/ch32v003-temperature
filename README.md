@@ -31,7 +31,7 @@ I tested the output in a sequence and logged the resulting temperatures. The tes
 - warm air again
 - wait for it to return to ambient
 
-In the plot of the data, the sequence is easily visible:
+In the plot of the data, the sequence is easily visible, x is in seconds, y is in deg c
 ![plot of the temperature with the described sequence](temp_curve.png)
 
 The data of the measurement is in the repo
